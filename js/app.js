@@ -1,7 +1,7 @@
 /**
  * Created by Gleb Melnichenko on 18.03.2017.
  */
-
+/*global angular */
 angular.module('to-do-list', ['ngRoute'])
     .config(function ($routeProvider) {
         'use strict';
